@@ -103,7 +103,7 @@ Föredrar man video-tutorials är den här serien fantastisk för 3D spel med Go
 ## Projekt Beskrivning
 Projektet utförs individuellt och går ut på att ni ska utveckla ett valfritt 2D-spel (240S) eller 3D-spel (230S) i Godot.
 
-## Kravuppfyllelse på spelet
+## Kravuppfyllelse på 2D spelet
 ### 1. Grundläggande spelmekanik
 Spelarens rörelse – Piltangenter, WASD eller touch-input för rörelse.
 Kollisionsdetektion – Säkerställa att objekt interagerar korrekt (t.ex. spelaren krockar med väggar).
@@ -127,4 +127,31 @@ Enkel fysik – Hopp/gravitationssystem om nödvändigt.
 ### 6. Scen- och nivåhantering
 Enkla scenövergångar – Växla mellan nivåer eller starta om spelet.
 Respawn eller återställning av spelet vid behov.
+
+## Kravuppfyllelse på 3D spelet
+### 1. Grundläggande spelmekanik
+Spelarens rörelse – Använd WASD/tangenter eller en joystick för att styra en 3D-karaktär.
+Kollisionsdetektion – Se till att spelaren och objekt inte går genom varandra.
+Kamera – En enkel tredjepersons- eller förstapersonskamera som följer spelaren.
+Grundläggande mål – Exempelvis att nå en specifik plats, samla föremål eller undvika hinder.
+Vinst-/förlustvillkor – Enkla regler för att avgöra om spelaren vinner eller förlorar.
+### 2. Enkel 3D-grafik
+3D-modeller – Grundläggande objekt för spelaren, miljön och fiender (kan vara enkla former som kuber/sfärer).
+Grundläggande texturer – Färger eller enkla bilder på modeller för att skapa variation.
+Minimala animationer – Enkel gång- eller hopprörelse om spelet har en karaktär.
+### 3. Grundläggande användargränssnitt (UI)
+Startskärm – En enkel meny med en "Starta"-knapp.
+Game over-skärm – Ett meddelande när spelaren vinner eller förlorar.
+HUD (valfritt) – Exempelvis hälsobar, poäng eller en timer.
+### 4. Enkla ljudeffekter och musik
+Ljud för rörelse, hopp, kollisioner eller insamling.
+Bakgrundsmusik – Enkel bakgrundslåt eller ljudeffekter för atmosfär.
+### 5. Enkel AI eller spelelement (valfritt)
+Grundläggande fienderörelse – Fiender kan patrullera eller jaga spelaren.
+Samlarföremål – Mynt, kristaller eller andra objekt som ger poäng.
+Enkel fysik – Gravitation, hopp eller fall när spelaren går av en plattform.
+### 6. Scen- och nivåhantering
+Enkla scenövergångar – Flytta mellan olika nivåer eller starta om spelet.
+Respawn eller återställning – Om spelaren faller av kartan eller dör, ska spelet kunna återställa scenen.
+
 
