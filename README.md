@@ -103,3 +103,28 @@ Föredrar man video-tutorials är den här serien fantastisk för 3D spel med Go
 ## Projekt Beskrivning
 Projektet utförs individuellt och går ut på att ni ska utveckla ett valfritt 2D-spel (240S) eller 3D-spel (230S) i Godot.
 
+## Kravuppfyllelse på spelet
+### 1. Grundläggande spelmekanik
+Spelarens rörelse – Piltangenter, WASD eller touch-input för rörelse.
+Kollisionsdetektion – Säkerställa att objekt interagerar korrekt (t.ex. spelaren krockar med väggar).
+Grundläggande mål – Ett enkelt mål som att nå en mållinje, samla föremål eller undvika hinder.
+Vinst-/förlustvillkor – Ett sätt att avgöra om spelaren vinner eller förlorar.
+### 2. Enkel grafik
+Sprites – Enkla 2D-bilder för spelaren, fiender och bakgrund.
+Tileset (valfritt) – Om spelet använder en tile-baserad miljö.
+Minimala animationer – Åtminstone en enkel stillastående/rörelseanimation.
+### 3. Grundläggande användargränssnitt (UI)
+Startskärm – En enkel titelskärm med en "Starta"-knapp.
+Game over-skärm – Ett meddelande när spelaren vinner eller förlorar.
+HUD (valfritt) – Poängräknare, timer eller hälsovisning.
+### 4. Enkla ljudeffekter och musik
+Ljud för hopp, insamling eller kollisioner.
+Bakgrundsmusik (slinga eller enkel låt).
+### 5. Enkel AI eller spelelement (valfritt)
+Grundläggande fienderörelse – Fiender rör sig vänster/höger eller jagar spelaren.
+Samlarföremål – Mynt, stjärnor eller andra objekt.
+Enkel fysik – Hopp/gravitationssystem om nödvändigt.
+### 6. Scen- och nivåhantering
+Enkla scenövergångar – Växla mellan nivåer eller starta om spelet.
+Respawn eller återställning av spelet vid behov.
+
