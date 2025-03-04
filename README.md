@@ -101,5 +101,5 @@ Föredrar man video-tutorials är den här serien fantastisk för 3D spel med Go
 (https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)[https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35]
 
 ## Projekt Beskrivning
-Projektet utförs individuellt och går ut på att ni ska utveckla ett valfritt 3D spel i Godot.
+Projektet utförs individuellt och går ut på att ni ska utveckla ett valfritt 2D-spel (240S) eller 3D-spel (230S) i Godot.
 
