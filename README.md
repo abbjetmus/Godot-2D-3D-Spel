@@ -89,8 +89,16 @@ Gå igenom tutorialen ditt första 2D spel: [https://docs.godotengine.org/en/sta
 
 För att först få en bekantskap med Godot. Därefter kan ni hoppa på 3D Spel.
 
+Föredrar man video-tutorials är den här serien fantastisk för 2D spel med Godot:
+
+[https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHCXBpxbdsOByZ55Ez4bgF)
+
 ## Tutorial: Första 3D Spel
 Gå igenom tutorialen ditt första 3D spel: [https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
+
+Föredrar man video-tutorials är den här serien fantastisk för 3D spel med Godot:
+
+(https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35)[https://www.youtube.com/playlist?list=PLda3VoSoc_TTp8Ng3C57spnNkOw3Hm_35]
 
 ## Projekt Beskrivning
 Projektet utförs individuellt och går ut på att ni ska utveckla ett valfritt 3D spel i Godot.
