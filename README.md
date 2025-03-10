@@ -91,7 +91,7 @@ HUD (valfritt) – Poängräknare, timer eller hälsovisning.
 ### 4. Enkla ljudeffekter och musik
 Ljud för hopp, insamling eller kollisioner.
 Bakgrundsmusik (slinga eller enkel låt).
-### 5. Enkel AI eller spelelement (valfritt)
+### 5. Enkel AI eller spelelement
 Grundläggande fienderörelse – Fiender rör sig vänster/höger eller jagar spelaren.
 Samlarföremål – Mynt, stjärnor eller andra objekt.
 Enkel fysik – Hopp/gravitationssystem om nödvändigt.
