@@ -70,6 +70,11 @@ Föredrar man video-tutorials är den här serien fantastisk för 2D spel med Go
 
 
 ## Kravuppfyllelse på 2D spelet
+Ni får återskapa ett känt spel om ni vill, men inte hämta klar kod från nätet.
+Eller så väljer ni hitta på ett eget spel. Efter ni har gått igenom tutorialen och vi har byggt ett enkelt spel tillsammans kan man börja planera spelet steg 0.
+### 0. Planering
+Planera spelet, skapa ett dokument med beskrivning och skiss hur ni vill att spelet ska fungera och se ut. 
+Få godkännande från läraren. Resten är saker som spelet måste uppfylla.
 ### 1. Grundläggande spelmekanik
 Spelarens rörelse – Piltangenter, WASD eller touch-input för rörelse.
 Kollisionsdetektion – Säkerställa att objekt interagerar korrekt (t.ex. spelaren krockar med väggar).
@@ -93,4 +98,6 @@ Enkel fysik – Hopp/gravitationssystem om nödvändigt.
 ### 6. Scen- och nivåhantering
 Enkla scenövergångar – Växla mellan nivåer eller starta om spelet.
 Respawn eller återställning av spelet vid behov.
+### 7. Byggas och distribueras
+Byggas och distribueras som en .exe fil för andra att kunna testa spelet.
 
